@@ -5,17 +5,21 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Hello_SoftUni", "01_Hello_SoftUni\01_Hello_SoftUni.csproj", "{25ADB4AD-CD4A-4B90-8190-94417509C4EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Nums_From_1_To_10", "02_Nums_From_1_To_10\02_Nums_From_1_To_10.csproj", "{F98482C1-9749-42B3-8F38-E9CF6A51E8E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Nums_From_1_To_10", "02_Nums_From_1_To_10\02_Nums_From_1_To_10.csproj", "{F98482C1-9749-42B3-8F38-E9CF6A51E8E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Rectangle_Area", "03_Rectangle_Area\03_Rectangle_Area.csproj", "{7AD927FD-868C-4158-91C6-15D1899F00F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Rectangle_Area", "03_Rectangle_Area\03_Rectangle_Area.csproj", "{7AD927FD-868C-4158-91C6-15D1899F00F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Inches_To_Centimeters", "04_Inches_To_Centimeters\04_Inches_To_Centimeters.csproj", "{C043BACE-C784-4FB2-9BCA-4CC7EC6BB627}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Inches_To_Centimeters", "04_Inches_To_Centimeters\04_Inches_To_Centimeters.csproj", "{C043BACE-C784-4FB2-9BCA-4CC7EC6BB627}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Greeting_By_Name", "05_Greeting_By_Name\05_Greeting_By_Name.csproj", "{F5503699-0411-43F7-A208-EB933AC81A20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Greeting_By_Name", "05_Greeting_By_Name\05_Greeting_By_Name.csproj", "{F5503699-0411-43F7-A208-EB933AC81A20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Concatenate_Data", "06_Concatenate_Data\06_Concatenate_Data.csproj", "{E3498CC5-A284-420D-852F-5AAE8A6A826C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Concatenate_Data", "06_Concatenate_Data\06_Concatenate_Data.csproj", "{E3498CC5-A284-420D-852F-5AAE8A6A826C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Projects_Creation", "07_Projects_Creation\07_Projects_Creation.csproj", "{0E17DA30-EDEE-46AB-93DC-BB5E4C0BE933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_Projects_Creation", "07_Projects_Creation\07_Projects_Creation.csproj", "{0E17DA30-EDEE-46AB-93DC-BB5E4C0BE933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Pet_Shop", "08_Pet_Shop\08_Pet_Shop.csproj", "{5305E29E-BFE4-4196-8265-64C9F024B965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Yard_Greening", "09_Yard_Greening\09_Yard_Greening.csproj", "{8EBA4E34-F75E-42ED-BE44-FA69EF01D5FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{0E17DA30-EDEE-46AB-93DC-BB5E4C0BE933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E17DA30-EDEE-46AB-93DC-BB5E4C0BE933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E17DA30-EDEE-46AB-93DC-BB5E4C0BE933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5305E29E-BFE4-4196-8265-64C9F024B965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5305E29E-BFE4-4196-8265-64C9F024B965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5305E29E-BFE4-4196-8265-64C9F024B965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5305E29E-BFE4-4196-8265-64C9F024B965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBA4E34-F75E-42ED-BE44-FA69EF01D5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBA4E34-F75E-42ED-BE44-FA69EF01D5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBA4E34-F75E-42ED-BE44-FA69EF01D5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBA4E34-F75E-42ED-BE44-FA69EF01D5FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
